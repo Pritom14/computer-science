@@ -6,6 +6,10 @@ This project adheres *in spirit* to [Semantic Versioning](http://semver.org/):
 - "MINOR" updates correspond to changing courses without changing the topics
 - "PATCH" updates correspond to aesthetic and non-essential additions/removals or changing order of classes for better progression
 
+## [Unreleased] 2026-10-03
+### Added
+- Log entry marking this maintenance update (no content changes)
+
 ## [7.2.1] 2017-05-14
 ### Updated
 - Networking course should take 8 weeks to complete

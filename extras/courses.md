@@ -1,3 +1,5 @@
+<!-- Logger: Tracking course curriculum updates -->
+
 # Computer Science - Great Courses
 
 This is a list of high-quality courses that, for one reason or another, didn't make it into the curriculum.
